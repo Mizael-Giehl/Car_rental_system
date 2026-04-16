@@ -1,5 +1,4 @@
-README.md 
-# 
+
 ## Car rental system - JDBC
 
 Project developed to practice: - JDBC (Java Database Connectivity).

@@ -34,7 +34,7 @@ Main.java
 
 ## Português
 
-## Sistema de aluguer de automóveis - JDBC
+## Sistema de alugar de automóveis - JDBC
 
 Projeto desenvolvido para praticar: - JDBC (Java Database Connectivity).
 
